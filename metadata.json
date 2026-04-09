@@ -1,0 +1,5 @@
+{
+  "name": "Handscape",
+  "description": "An immersive AR Hand Studio with hand connections, air writing, lightsabers, and a planet system.",
+  "requestFramePermissions": ["camera"]
+}
